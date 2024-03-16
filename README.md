@@ -12,8 +12,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wEgUQLLxOkMnyX3pX0iPTGTCqKdoxaYu/view?usp=sharing](https://drive.google.com/file/d/1wEgUQLLxOkMnyX3pX0iPTGTCqKdoxaYu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Sangeetha0822/Sangeetha0822/assets/127656483/cf21da59-6969-4355-9dac-07a85b6e46ad)
-">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cGRqYywWZqfrfM9t7">
+
 <p align="left">
 <a href="https://linkedin.com/in/sangeetha b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sangeetha b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sangeetha b" height="30" width="40" /></a>
