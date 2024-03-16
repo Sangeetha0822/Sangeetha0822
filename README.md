@@ -12,8 +12,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wEgUQLLxOkMnyX3pX0iPTGTCqKdoxaYu/view?usp=sharing](https://drive.google.com/file/d/1wEgUQLLxOkMnyX3pX0iPTGTCqKdoxaYu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cGRqYywWZqfrfM9t7">
 
+
+<a  align="right" target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4614765c1e85f52edf5f2f563cba2e8bff2a4f1d27dbc26117261aa55dd56313/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966" data-target="animated-image.originalLink" previewlistener="true"><img align="right" alt="Coding" height="300" src="https://camo.githubusercontent.com/4614765c1e85f52edf5f2f563cba2e8bff2a4f1d27dbc26117261aa55dd56313/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966" data-canonical-src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <p align="left">
 <a href="https://linkedin.com/in/sangeetha b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sangeetha b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sangeetha b" height="30" width="40" /></a>
