@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangeetha B</h1>
 <h3 align="center">As an MCA student, I eagerly anticipate launching my IT career.</h3>
 
-- 🔭 I’m currently working on **Job Ease- MNREGA APP**
+- 🔭 I’m currently looking for freelance projects in Application development, web development
 
 - 🌱 I’m currently learning **Cyber Security**
 
