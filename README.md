@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sangeetha B</h1>
-<h3 align="center">A passionate Computer Science graduate eager to launch my career in AI/ML and software engineering.</h3>
+<h3 align="center">Python Dveloper</h3>
 
-- 🔭 I’m currently looking for **freelance projects** in application development, web development, and machine learning.
+- 🔭 I’m currently working in Lucidspire pvt.ltd.
   
-- 🌱 I’m currently learning **Cyber Security**.
+- 🌱 I’m currently learning **Odoo **.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sangeetha0822.github.io/protfolio_sangeetha_b/).
 
