@@ -5,8 +5,6 @@
   
 - 🌱 I’m currently working as  **Odoo Developer**.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sangeetha0822.github.io/protfolio_sangeetha_b/).
-
 - 📫 Reach me at **sangeethab0822@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
