@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in Lucidspire pvt.ltd.
   
-- 🌱 I’m currently learning **Odoo **.
+- 🌱 I’m currently working as  **Odoo Developer**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sangeetha0822.github.io/protfolio_sangeetha_b/).
 
